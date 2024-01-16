@@ -1,20 +1,3 @@
-# Fichiers générés par l'IDE
-*.ipynb
-*.pyc
-
-# Fichiers temporaires
-*.DS_Store
-*~
-
-# Fichiers de configuration
-.gitignore
-.gitmodules
-
-# Autre
-**/.*
-**/__pycache__/
-cybersecur/
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
