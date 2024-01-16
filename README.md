@@ -3,12 +3,12 @@ This repository contains all the code used during my cybersecurity course 🕵�
 
 ## Summary 📑
 
-- [I. Intro 🎬](#i--intro-🎬)
-- [II. Python review 🐍](#ii--python-review-🐍)
-- [III. Requests 🌐](#iii--requests-🌐)
-- [IV. Crypto 📜](#iv--crypto-📜)
-- [V. Nmap 🌐](#v--nmap-🌐)
-- [VI. AI & Cybersecurity 🤖](#vi--ai--cybersecurity-🤖)
+- [I. Intro 🎬](/0-intro/)
+- [II. Python review 🐍](/1-Python%20review/)
+- [III. Requests 🌐](/2-Requests/)
+- [IV. Crypto 📜](/3-Crypto/)
+- [V. Nmap 🌐](/4-Nmap/)
+- [VI. AI & Cybersecurity 🤖](/5-AI%20en%20cybersecurité/)
 
 ---
 
