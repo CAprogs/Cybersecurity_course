@@ -6,13 +6,13 @@ Il s'agit du format d'adresse IP privée par défaut le plus couramment attribu�
 
 import socket
 
-hostname = ?("Please enter website address:\n")
+hostname = input("Please enter website address:\n")
 
 # IP lookup from hostname
 try:
-    print(f'The {hostname} IP Address is {?.gethostbyname(?)}')
+    print(f'The {hostname} IP Address is {socket.gethostbyname(hostname)}')
 
-except ?.gaierror as ?:
+except socket.gaierror as e:
     print(f'Invalid hostname, error raised is {e}')
 
 
