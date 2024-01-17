@@ -32,6 +32,3 @@ if __name__ == "__main__":
     target = '127.0.0.1'
     # target = '45.33.32.156'
     advanced_scan(target)
-
-
-
