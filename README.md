@@ -8,7 +8,8 @@ This repository contains all the code used during my cybersecurity course 🕵�
 - [III. Requests 🌐](/2-Requests/)
 - [IV. Crypto 📜](/3-Crypto/)
 - [V. Nmap 🌐](/4-Nmap/)
-- [VI. AI & Cybersecurity 🤖](/5-AI%20en%20cybersecurité/)
+- [VI. Scapy 📦](/5-Scapy/)
+- [VII. AI & Cybersecurity 🤖](/6-AI%20en%20cybersecurité/)
 
 ---
 
@@ -32,6 +33,10 @@ An introduction to `cryptography`. It contains the following topics :
 
 An introduction to the `nmap` tool. It contains the following topics :
 
-### VI- AI & Cybersecurity 🤖
+### VI- Scapy 📦
+
+An introduction to the `scapy` tool. It contains the following topics :
+
+### VII- AI & Cybersecurity 🤖
 
 An introduction to the use of `AI in cybersecurity`. It contains the following topics :

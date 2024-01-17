@@ -1,2 +1,3 @@
-- Exos 1, 2, 3 AI
-- Projets 1 et 2
+- Finir Exos 1, 2, 3 AI
+- Projets 1 et 2 cybersecurity
+- Exercices Nmap
